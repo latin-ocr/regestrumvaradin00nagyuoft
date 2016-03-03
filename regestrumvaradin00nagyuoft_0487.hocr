@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./regestrumvaradin00nagyuoft_0487.png"; bbox 0 0 2170 3210; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1430 3210">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1430 3210">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1430 1291; baseline 0 -33"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1430 1291; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1119 1133 1401 1258; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1291 590 3210; baseline 0 -1807"><span class='ocrx_word' id='word_1_3' title='bbox 0 1291 590 3210; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 849 1164 1119 1227">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 849 1164 1119 1227">
+     <span class='ocr_line' id='line_1_3' title="bbox 849 1164 1119 1227; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 849 1164 1119 1227; x_wconf 90' lang='lat' dir='ltr'><strong>INDEX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 542 1319 1648 1583">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 491 1298 1648 1583">
+     <span class='ocr_line' id='line_1_4' title="bbox 542 1319 1648 1375; baseline 0 -8"><span class='ocrx_word' id='word_1_5' title='bbox 542 1319 545 1329; x_wconf 84' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 570 1319 982 1375; x_wconf 77' lang='lat' dir='ltr'><strong>PERSONARUM,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1013 1321 1297 1368; x_wconf 83' lang='lat' dir='ltr'>LOCORUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1331 1322 1413 1367; x_wconf 80' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1443 1323 1648 1369; x_wconf 83' lang='lat' dir='ltr'><strong>RERUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 590 1429 1567 1483; baseline 0.001 -9"><span class='ocrx_word' id='word_1_10' title='bbox 590 1429 784 1483; x_wconf 81' lang='lat' dir='ltr'><strong>ESTRO</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 813 1429 1204 1475; x_wconf 67' lang='lat' dir='ltr'><strong>vARADmENffl</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1233 1431 1567 1475; x_wconf 84' lang='lat' dir='ltr'><strong>MEMORATA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 760 1536 1202 1583; baseline 0 -1"><span class='ocrx_word' id='word_1_13' title='bbox 760 1536 1202 1583; x_wconf 79' lang='lat' dir='ltr'><strong>COMPLECTENS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
